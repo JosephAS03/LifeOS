@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+vendor/
+*.log
+*.zip
+dist/
+coverage/
+Thumbs.db
+Desktop.ini
+

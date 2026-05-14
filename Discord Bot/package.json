@@ -1,0 +1,15 @@
+{
+  "name": "life-os-discord-bot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Companion Discord bot for LIFE OS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register-commands": "node src/register-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.5"
+  }
+}
