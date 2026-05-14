@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/JosephAS03/LifeOS
  * Description: Timeline-first personal dashboard for health, finance, tasks, mood, and Discord automation.
  * Version: 0.2.0
- * Author: OpenAI Codex
+ * Author: Joseph Alexander Simpson
  * Author URI: https://github.com/JosephAS03/LifeOS
  * Update URI: https://github.com/JosephAS03/LifeOS
  * Requires PHP: 8.1

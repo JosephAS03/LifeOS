@@ -88,7 +88,7 @@ final class GitHubReleaseUpdater
             'name' => 'LIFE OS',
             'slug' => $this->pluginSlug(),
             'version' => $release['version'],
-            'author' => '<a href="' . esc_url(LIFE_OS_GITHUB_REPO_URL) . '">OpenAI Codex</a>',
+            'author' => '<a href="' . esc_url(LIFE_OS_GITHUB_REPO_URL) . '">Joseph Alexander Simpson</a>',
             'author_profile' => esc_url(LIFE_OS_GITHUB_REPO_URL),
             'homepage' => esc_url(LIFE_OS_GITHUB_REPO_URL),
             'download_link' => $release['package'],
